@@ -117,3 +117,13 @@ A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
 
+
+
+# Timeline: The Rise of the Internet
+* 1961 Leonard Kleinrock publishes his work on packet switching theory, a crucial concept for data transmission
+* 1963 A join industry fovernment comittee develops ASCII, the first universtal standard for computers.
+* 1969 ARPANET delivered its first message using node to node communications. Only the first two letters were recived despite the simple message "LOGIN"
+* 1970 Bob metcalfe builds a high-speed netowrk interface between the MIT IMP and a PDP-6 to the ARPNET. it would run for 13 years without human intervention.
+* 1971 Intels release on the 4004, the first 'computer on a chip' ushers in the epoch of the microprocessor.
+* 1991 a computer programmer working at the CERN research center on the Swiss-French border named Tim Berners-Lee introduced the World Wide Web, making the internet go from sending things back and forth to a "web" of interconnected information.
+* 2000 The birth of the devil of himself, Social Media...
